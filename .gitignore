@@ -1,0 +1,13 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Unity crash logs
+crash.dmp
+output_log.txt
+
+# IDE files
+.vs/
+.idea/
+*.suo
+*.user
